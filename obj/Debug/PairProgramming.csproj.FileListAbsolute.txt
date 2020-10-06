@@ -1,0 +1,14 @@
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\SD65CSharpFundo-master\SD65CSharpFundo-master\PairProgramming\bin\Debug\PairProgramming.exe.config
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\SD65CSharpFundo-master\SD65CSharpFundo-master\PairProgramming\bin\Debug\PairProgramming.exe
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\SD65CSharpFundo-master\SD65CSharpFundo-master\PairProgramming\bin\Debug\PairProgramming.pdb
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\SD65CSharpFundo-master\SD65CSharpFundo-master\PairProgramming\obj\Debug\PairProgramming.csprojAssemblyReference.cache
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\SD65CSharpFundo-master\SD65CSharpFundo-master\PairProgramming\obj\Debug\PairProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\SD65CSharpFundo-master\SD65CSharpFundo-master\PairProgramming\obj\Debug\PairProgramming.exe
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\SD65CSharpFundo-master\SD65CSharpFundo-master\PairProgramming\obj\Debug\PairProgramming.pdb
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\PairProgramming\bin\Debug\PairProgramming.exe.config
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\PairProgramming\bin\Debug\PairProgramming.exe
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\PairProgramming\bin\Debug\PairProgramming.pdb
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\PairProgramming\obj\Debug\PairProgramming.csprojAssemblyReference.cache
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\PairProgramming\obj\Debug\PairProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\PairProgramming\obj\Debug\PairProgramming.exe
+C:\Users\Tanagram\Documents\Code\ElevenFiftyProjects\PairProgramming\obj\Debug\PairProgramming.pdb
